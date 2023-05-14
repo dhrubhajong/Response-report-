@@ -1,6 +1,6 @@
 
 # Problem Statement:
-The problem at hand is to analyze survey response data that captures the interests of students in different fields of study and their project preferences. The objective is to gain actionable insights from the data to inform decision-making processes related to curriculum development, resource allocation, and project planning in educational institutions.
+The problem at hand is to analyze survey response data that captures the interests of students in different fields of study and their project preferences. The objective is to gain actionable insights from the data to inform decision-making processes related to resource allocation, and project planning in educational institutions.
 
 # Objective:
 The objective of this project is to analyze the survey response data and extract meaningful insights to accomplish the following:
